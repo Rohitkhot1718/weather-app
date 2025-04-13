@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <h1 class="heading">🌤️ Weather Forecast App</h1>
+
+    <div class="card">
+      <div class="search">
+        <i class="fa-solid fa-location-dot loc"></i>
+        <input type="text" placeholder="Enter city name" />
+        <button class="fa-solid fa-magnifying-glass" title="btn"></button>
+      </div>
+      <div class="weather">
+        <div class="error">
+          <img src="./Assets/404.png" alt="Error 404: Invalid city name" />
+          <p>Oops, Invalid city name!</p>
+        </div>
+        <div class="current-weather">
+          <img src="./Assets/clear.png" alt="clear" class="weather-icon" />
+          <h1>22℃</h1>
+          <h2>New York</h2>
+          <div class="details">
+            <div class="col">
+              <i class="fa-sharp fa-solid fa-droplet"></i>
+              <div class="humidity">
+                <p>20%</p>
+                <p>Humidity</p>
+              </div>
+            </div>
+            <div class="col">
+              <i class="fa-solid fa-wind"></i>
+              <div class="wind">
+                <p>20kmh</p>
+                <p>Wind Speed</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
