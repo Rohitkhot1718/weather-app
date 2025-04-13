@@ -42,7 +42,7 @@ Here are a few screenshots of the app in action:
    ![Weather App](./Images/Weather-App.png)
 
 3. **Invalid City Error:**
-   ![Invalid City](./Images/Invalid-City.png)
+   ![Invalid City](./Images/Inavlid-City.png)
 
 ---
 
