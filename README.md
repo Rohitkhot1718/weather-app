@@ -27,15 +27,8 @@ A simple and clean weather app that allows users to check the current temperatur
 
 ## 🚀 Live Demo
 
-Check it out live: [**Click Here**](#) 
+Check it out live: [**Click Here**](https://rohitkhot1718.github.io/weather-app/) 
 
----
-
-## 🖼️ Screenshots
-
-> _(Optional: Add screenshot images of your app's UI here)_
-
----
 
 ## ⚙️ How to Run Locally
 
