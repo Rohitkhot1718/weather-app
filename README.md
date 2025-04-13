@@ -29,22 +29,6 @@ A simple and clean weather app that allows users to check the current temperatur
 
 Check it out live: [**Click Here**](https://rohitkhot1718.github.io/weather-app/) 
 
----
-
-## 🖼️ Screenshots
-
-Here are a few screenshots of the app in action:
-
-1. **Search Screen:**
-   ![Search](./Images/Weather-Search.png)
-
-2. **Weather App Display:**
-   ![Weather App](./Images/Weather-App.png)
-
-3. **Invalid City Error:**
-   ![Invalid City](./Images/Inavlid-City.png)
-
----
 
 ## ⚙️ How to Run Locally
 
